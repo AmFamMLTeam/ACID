@@ -1,2 +1,2 @@
-# Chatbot_Intent_Classification_Dataset
-Intent Classification dataset for conversational agent in insurance domain.
+# Chatbot Intent Classification Dataset
+Intent Classification dataset for conversational agent in insurance domain. We are in the process of finalizing dataset release, hold tight.
